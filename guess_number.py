@@ -1,5 +1,5 @@
 # This game is to guess a number from 1 to x
-# Created by Abdullah Al-Yamani
+# Created by Abdullah Al-Yamany
 
 import random
 
